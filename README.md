@@ -1,2 +1,0 @@
-# softest.co
-Job descriptions
