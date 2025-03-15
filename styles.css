@@ -1,0 +1,62 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f8ff;
+    color: #1a1a2e;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003366;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 50px;
+    margin-right: 15px;
+}
+
+.company-name {
+    height: 30px;
+}
+
+.job-header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.job-header h1 {
+    font-size: 28px;
+    margin: 0;
+}
+
+.job-details {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    color: #003366;
+    border-bottom: 2px solid #003366;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+p, ul li {
+    font-size: 16px;
+    line-height: 1.6;
+}
